@@ -1,11 +1,12 @@
-# VibSense — Polityka prywatności / Privacy Policy
+# VibSense  
+Polityka prywatności / Privacy Policy
 
 **Kontakt / Contact:** vibesense@poczta.fm  
 **Data ostatniej aktualizacji / Last updated:** 23 stycznia 2026 / 23 January 2026
 
 ---
 
-## Polityka prywatności (PL) — VibSense
+## Polityka prywatności (PL)- VibSense
 
 ### 1) Kto jest administratorem danych
 Administratorem danych w rozumieniu przepisów o ochronie danych jest wydawca aplikacji VibSense.  
@@ -80,10 +81,10 @@ Jeśli zmienimy sposób przetwarzania danych, zaktualizujemy treść polityki pr
 
 ---
 
-## Privacy Policy (EN) — VibSense
+## Privacy Policy (EN)- VibSense
 
 ### 1) Who we are
-This Privacy Policy explains how the VibSense app (“we”, “us”) handles information.  
+This Privacy Policy explains how the VibSense app handles information.  
 If you have questions, contact us at the email above.
 
 ### 2) What data we process and why
@@ -118,7 +119,6 @@ If enabled in a given version, the app may fetch public channel/video metadata u
 
 ### 3) Permissions and why they are needed
 The app requests runtime permissions as needed and for user-consented purposes.
-
 - RECORD_AUDIO (Microphone): required for sound monitoring and speech-to-text.
 - POST_NOTIFICATIONS (Android 13+): required to show alerts/notifications.
 - BLUETOOTH_CONNECT: required to access/select Bluetooth audio inputs and show diagnostics.
